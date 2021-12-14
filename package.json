@@ -1,0 +1,25 @@
+{
+  "name": "nft_generative",
+  "version": "1.0.0",
+  "description": "NFT GENERATIVE ART FROM CREATION TO MINTING :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujantkumarkv/buidlit.git"
+  },
+  "keywords": [
+    "nft"
+  ],
+  "author": "sujantkumarkv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujantkumarkv/buidlit/issues"
+  },
+  "homepage": "https://github.com/sujantkumarkv/buidlit#readme",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
+}
